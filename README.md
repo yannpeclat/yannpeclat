@@ -12,7 +12,7 @@ I'm currently open for new projects so you can reach me trough :sunglasses:
 
 ### <h2 align="center"> Languages and Tools...
 
-In the front-end
+<p align="center">In the front-end</p>
 
 <p align="center">
   <tr>
@@ -28,9 +28,10 @@ In the front-end
   <tb><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="hooks" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="bulma" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
-In the back-end:
+<p align="center">In the back-end:</p>
 
 <p align="center">
   <tr>
@@ -42,15 +43,19 @@ In the back-end:
   <tb><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
-Others tools:
+<p align="center">Others tools:</p>
 
 <p align="center">
   <tr>
   <tb><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
 ---
+
+#### Thank You For Visiting!
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpontes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpontes&theme=onedark&layout=compact&langs_count=8&card_width=260) -->
