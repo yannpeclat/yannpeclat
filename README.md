@@ -18,7 +18,7 @@ My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Nite
 
 ### <h2 align="center"> Languages and Tools...
 
-<p align="center">In the front-end</p>
+<h4 align="center">In the front-end</h4>
 
 <p align="center">
   <tr>
@@ -35,7 +35,7 @@ My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Nite
   <tb><img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="bulma" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
-<p align="center">In the back-end:</p>
+<h4 align="center"></b>In the back-end:</h4>
 
 <p align="center">
   <tr>
@@ -47,7 +47,7 @@ My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Nite
   <tb><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
-<p align="center" ">Others tools:</p>
+<h4 align="center" ">Others tools:</h4>
 
 <p align="center">
   <tr>
