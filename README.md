@@ -1,14 +1,19 @@
 # Hello, there :wave:
 
-My name is Yann Peclat and I am a full-stack web developer from Niterói, Rio de Janeiro. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
+My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Niterói, Rio de Janeiro</b>. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
-I'm currently open for new projects so you can reach me trough :sunglasses:
+- 💡  I like exploring new trends and always evolving.
+- 🌱 I am currently studying and learning.
+- ❤ Technology, coding and sports
 
-<a href="https://wa.me/5521982179232" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yann-peclat-0ba246176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:yannpeclat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+## <h2 align="center"> 🌎 &nbsp;Where to find me ##
 
-### Here's some of the stuff I like to use :v:
+<div align="center">
+  <a href="https://wa.me/5521982179232" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yann-peclat-0ba246176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yannpeclat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/yannpeclat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
 
 ### <h2 align="center"> Languages and Tools...
 
