@@ -6,7 +6,7 @@ My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Nite
 - 🌱 I am currently studying and learning.
 - ❤ Technology, coding and sports
 
-## <h2 align="center"> 🌎 &nbsp;Where to find me ##
+## <h2 align="center"> 🌎 &nbsp;Where to find me
 
 <div align="center">
   <a href="https://wa.me/5521982179232" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -46,7 +46,7 @@ My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Nite
   <tb><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
-<p align="center">Others tools:</p>
+<p align="center" ">Others tools:</p>
 
 <p align="center">
   <tr>
@@ -60,5 +60,5 @@ My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Nite
 
 #### Thank You For Visiting!
 
-<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpontes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpontes&theme=onedark&layout=compact&langs_count=8&card_width=260) -->
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=peclattdev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peclattdev&theme=onedark&layout=compact&langs_count=8&card_width=260) -->
