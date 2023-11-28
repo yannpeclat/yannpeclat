@@ -16,7 +16,7 @@ My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Nite
   <a href="https://www.instagram.com/yannpeclat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
 
-### <h2 align="center"> Languages and Tools...
+### <h2 align="center"> 💻 Languages and Tools...
 
 <h4 align="center">In the front-end</h4>
 
