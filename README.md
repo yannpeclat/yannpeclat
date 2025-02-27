@@ -1,6 +1,11 @@
 # Hello, there :wave:
 
-My name is <b>Yann Peclat</b> and I am a <b>Fullstack Developer</b> from <b>Niterói, Rio de Janeiro</b>. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
+My name is Yann Peclat and I'm a BackEnd Developer from Niterói, Rio de Janeiro. I like programming and my goal is to create or develop an incredible application or system that solves real-world problems.
+
+🚀 Always ready to collaborate on Dev Experiments.
+🎯 Life Hack: "Explore 🔥 and explode 💣 with knowledge"
+🌱 I am currently studying and learning.
+❤ Technology, coding and sports
 
 - 🚀 Always ready to collaborate for Dev Experiments.
 - 🎯 Life Hack: "Explore 🔥 and explode 💣 with knowledge"
