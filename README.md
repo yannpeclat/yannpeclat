@@ -1,6 +1,6 @@
 # Hello, there :wave:
 
-My name is Yann Peclat and I'm a BackEnd Developer from Niterói, Rio de Janeiro. I like programming and my goal is to create or develop an incredible application or system that solves real-world problems.
+My name is Yann, I am 31 years old, and I am a backend developer passionate about building scalable and efficient solutions. My main focus is on Java and the Spring ecosystem, with experience in microservices architecture, RESTful APIs, and relational databases. I am always striving to deepen my knowledge in software engineering, design patterns, and best practices to develop robust and high-performance applications. I am constantly evolving and sharing my learning through practical projects and real-world challenges. Let's build something amazing together! 🚀🔥
 
 - 🚀 Always ready to collaborate for Dev Experiments.
 - 🎯 Life Hack: "Explore 🔥 and explode 💣 with knowledge"
