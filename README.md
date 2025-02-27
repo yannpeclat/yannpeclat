@@ -2,11 +2,6 @@
 
 My name is Yann Peclat and I'm a BackEnd Developer from Niterói, Rio de Janeiro. I like programming and my goal is to create or develop an incredible application or system that solves real-world problems.
 
-🚀 Always ready to collaborate on Dev Experiments.
-🎯 Life Hack: "Explore 🔥 and explode 💣 with knowledge"
-🌱 I am currently studying and learning.
-❤ Technology, coding and sports
-
 - 🚀 Always ready to collaborate for Dev Experiments.
 - 🎯 Life Hack: "Explore 🔥 and explode 💣 with knowledge"
 - 🌱 I am currently studying and learning.
