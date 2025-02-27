@@ -36,7 +36,8 @@ My name is Yann, I am 31 years old, and I am a backend developer passionate abou
   <tb><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="npm" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="npm" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
 <h4 align="center" ">Others tools:</h4>
