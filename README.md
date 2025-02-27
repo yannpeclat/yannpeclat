@@ -31,7 +31,7 @@ My name is Yann, I am 31 years old, and I am a backend developer passionate abou
 
 <p align="center">
   <tr>
-  <tb><img src="[https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=Java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" alt="Java" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:6px 4px"></tb>
