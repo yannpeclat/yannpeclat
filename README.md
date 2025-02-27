@@ -34,7 +34,7 @@ My name is Yann, I am 31 years old, and I am a backend developer passionate abou
   <tb><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="sql" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/Sql-092E20?style=for-the-badge&logo=sql&logoColor=white" alt="sql" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
