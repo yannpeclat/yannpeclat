@@ -33,10 +33,12 @@ My name is Yann, I am 31 years old, and I am a backend developer passionate abou
   <tr>
   <tb><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring-Boot" style="vertical-align:top; margin:6px 4px"></tb>
-  <tb><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/Sql-092E20?style=for-the-badge&logo=sql&logoColor=white" alt="sql" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:6px 4px"></tb>
   <tb><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell_Script" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:6px 4px"></tb>
+  <tb><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" style="vertical-align:top; margin:6px 4px"></tb>
 </p>
 
 <h4 align="center" ">Others tools:</h4>
