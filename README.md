@@ -53,8 +53,8 @@ Me chamo **Yann**, tenho **31 anos** e sou um desenvolvedor backend apaixonado p
 
 ## 📬 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannpeclat/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannpeclat@gmail.com)
 
 🚀 *Sempre aberto a novas oportunidades e desafios!*
 
