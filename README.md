@@ -43,11 +43,9 @@ Me chamo **Yann**, tenho **31 anos** e sou um desenvolvedor backend apaixonado p
 
 ## 📂 Projetos Destacados
 
-🔹 **[Projeto 1](#)** - Descrição breve do projeto.
-🔹 **[Projeto 2](#)** - Descrição breve do projeto.
-🔹 **[Projeto 3](#)** - Descrição breve do projeto.
+🚧 Estou desenvolvendo projetos backend robustos em Java! Em breve, publicarei aqui projetos completos para demonstrar minhas habilidades. 🚀
 
-📌 *Veja mais projetos no meu repositório!* [🔗 GitHub Repositories](#)
+🔹 Enquanto isso, acompanhe meu progresso nos meus repositórios!
 
 ---
 
