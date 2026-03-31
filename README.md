@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Backend | Engenharia de Software | Arquitetura
 
-Me chamo **Yann**, tenho **31 anos** e sou um desenvolvedor backend apaixonado por construir soluções escaláveis e eficientes. Meu foco principal está em **Java e no ecossistema Spring**, com experiência em arquitetura de microsserviços, APIs RESTful e bancos de dados relacionais. Sempre busco aprofundar meus conhecimentos em **engenharia de software, padrões de projeto e boas práticas** para desenvolver aplicações robustas e de alto desempenho.
+Me chamo **Yann**, tenho **32 anos** e sou um desenvolvedor backend apaixonado por construir soluções escaláveis e eficientes. Meu foco principal está em **Java e no ecossistema Spring**, com experiência em arquitetura de microsserviços, APIs RESTful e bancos de dados relacionais. Sempre busco aprofundar meus conhecimentos em **engenharia de software, padrões de projeto e boas práticas** para desenvolver aplicações robustas e de alto desempenho.
 
 📌 **Estou constantemente evoluindo e compartilhando meu aprendizado através de projetos práticos e desafios reais!**
 
