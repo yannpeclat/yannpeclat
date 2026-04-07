@@ -15,7 +15,6 @@ Sou apaixonado por construir soluções escaláveis, resilientes e eficientes, a
 ### 💻 **Linguagens de Programação**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&label=11/17/21)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ES6+](https://img.shields.io/badge/ES6+-3C3C3D?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🍃 **Frameworks & Bibliotecas Backend**
