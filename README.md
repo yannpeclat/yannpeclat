@@ -21,7 +21,6 @@ Sou apaixonado por construir soluções escaláveis, resilientes e eficientes, a
 ### 🍃 **Frameworks & Bibliotecas Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Gateway](https://img.shields.io/badge/API%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
